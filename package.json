@@ -1,0 +1,27 @@
+{
+  "name": "com.kirbyrawr.stellar-dotnet-sdk-xdr",
+  "version": "5.1.1",
+  "displayName": "Stellar SDK XDR",
+  "description": "Stellar XDR .Net SDK ported to work in Unity.\nThe code credits go to the original authors of 'stellar-dotnet-sdk-xdr'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "stellar",
+    "lumens",
+    "cryptocurrency",
+    "xlm",
+    "xdr",
+    "dlls",
+    "compiled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/stellar-dotnet-sdk-xdr.git"
+  },
+  "license": "Apache 2.0",
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
